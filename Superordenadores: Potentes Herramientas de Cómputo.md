@@ -45,6 +45,30 @@ Los superordenadores evolucionaron a partir de las computadoras más tempranas. 
 
 
 ## 5. RES
+La Red Española de Supercomputación (RES) es una Infraestructura Científica y Técnica Singular (ICTS) distribuida por toda la geografía española, compuesta por 14 nodos interconectados entre sí por redes de alta velocidad. Su misión es ofrecer los recursos y servicios necesarios para el desarrollo de proyectos científicos y tecnológicos innovadores y de alta calidad.
+
+Nodos y sistemas de la RES
+En 2021 la RES está formada por 16 superordenadores situados en 13 centros de investigación y universidades españolas:1​
+
+MareNostrum y MinoTauro en el Barcelona Supercomputing Center - Centro Nacional de Supercomputación (BSC-CNS)
+FinisTerrae II en el Centro de Supercomputación de Galicia (CESGA)
+LaPalma en el Instituto de Astrofísica de Canarias (IAC)
+Altamira en el Instituto de Física de Cantabria (IFCA) de la Universidad de Cantabria
+Picasso en la Universidad de Málaga (UMA)
+Tirant en la Universitat de València (UV)
+CaesarAugusta en el Instituto de Biocomputación y Física de Sistemas Complejos (BIFI) de la Universidad de Zaragoza
+Caléndula en la Fundación Centro de Supercomputación de Castilla y León (SCAYLE)
+Pirineus II y Canigó en Consorcio de Servicios Universitarios de Cataluña (CSUC)
+LUSITANIA en CénitS (Fundación COMPUTAEX).
+Cibeles en la Universidad Autónoma de Madrid (UAM)
+Urederra en Navarra de Servicios y Tecnologías (NASERTIC)
+Xula y Turgalium en Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT)
+
+[Enlace RES](https://www.res.es/es/nodos-de-la-res)
+
+![image](https://github.com/MateoCarballo/SistemasInformaticos/assets/115709668/12d1ba95-4f18-41a5-860e-ee2de44d89b4)
+
+
 El superordenador más potente de España actualmente es el MareNostrum 4. Está ubicado en Barcelona y es el superordenador más emblemático del Barcelona Supercomputing Center - Centro Nacional de Supercomputación (BSC-CNS)1. MareNostrum 4 tiene una capacidad de cálculo de 11,1 PetaFLOPS y cuenta con 165.888 núcleos de procesador1. Además, tiene una memoria de 390 TiB1. Si bien MareNostrum 4 es el superordenador más potente de España, también ha ocupado posiciones destacadas en el ranking internacional Top 5001.
 ![image](https://github.com/MateoCarballo/SistemasInformaticos/assets/115709668/58e8ee90-bd76-414e-b4fd-3ee9dd3ed3a6) ![image](https://github.com/MateoCarballo/SistemasInformaticos/assets/115709668/e89d9494-b97f-48a9-960b-c63637a7e5e5)
 
