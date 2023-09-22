@@ -1,3 +1,5 @@
+# Superordenadores: Potentes Herramientas de Cómputo
+
 ## 1. ¿Qué son los superordenadores?
 Los superordenadores son computadoras extremadamente potentes y avanzadas diseñadas para realizar cálculos complejos a velocidades excepcionales. Son capaces de procesar grandes cantidades de datos y resolver problemas científicos y técnicos que requieren un gran poder de cómputo.
 
