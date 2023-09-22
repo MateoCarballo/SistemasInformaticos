@@ -83,14 +83,33 @@ El superordenador más potente de España actualmente es el MareNostrum 4. Está
 ![image](https://github.com/MateoCarballo/SistemasInformaticos/assets/115709668/58e8ee90-bd76-414e-b4fd-3ee9dd3ed3a6) ![image](https://github.com/MateoCarballo/SistemasInformaticos/assets/115709668/e89d9494-b97f-48a9-960b-c63637a7e5e5)
 
 
-En una noticia publicada el dia 12 de Septiembre de 2023 anuncian la puesta en funcionamiento de la quinta version de este superordenador. Anuncian que multiplicara por diecisiete la potencia de su anterior version. Llegando a velocidades de calculo de 150 PetaFLOPS. [Enlace noticia MareNostrum 5](https://elpais.com/tecnologia/2023-09-12/llega-el-supercomputador-marenostrum-5-la-mayor-inversion-europea-en-una-infraestructura-cientifica-en-espana.html)
+En una noticia publicada el dia 12 de Septiembre de 2023 anuncian la puesta en funcionamiento de la quinta version de este superordenador. Anuncian que multiplicara por diecisiete la potencia de su anterior version. Llegando a velocidades de calculo de 150 PetaFLOPS. Mantiene asi la primera posicion en el ranking espanol de superordenadores y entra en el top cinco europeo. Este superordenador contaria con 9216 nodos y mas de 200.000 nucleos(un nodo es la unidad basica de procesamiento, una computadora individual que forma parte del sistema. Un mismo nodo puede tener varios procesadores). Utiliza procesadores Intel Xeon Platinum. En cuanto almacenamiento contara con mas de 200 PB y 400 PB de archivo activo. Su memoria seria de 390 TB.
+
+
+[Enlace noticia MareNostrum 5](https://elpais.com/tecnologia/2023-09-12/llega-el-supercomputador-marenostrum-5-la-mayor-inversion-europea-en-una-infraestructura-cientifica-en-espana.html)
 
 ![image](https://github.com/MateoCarballo/SistemasInformaticos/assets/115709668/e24d2ea7-7676-486a-861c-6ba504766880)
 
 
-Para poner en contexto el procesador Intel Core i9-13900K tiene una capacidad de cálculo de 154,6 GFLOPS contra los 11,1 PetaFLOPS de MareNostrum 4.
+Para poner en contexto el procesador Intel Core i9-13900K tiene una capacidad de cálculo de 154,6 GFLOPS contra los 150 PetaFLOPS de MareNostrum 5.
+
+En estas imagenes podemos ver la diferencia de forma entre un procesador XEON del fabricante Intel contra otro de la gama Core.
+
+Imagen de un procesador XEON 
+
+![image](https://github.com/MateoCarballo/SistemasInformaticos/assets/115709668/fe4749dd-c7ef-41a3-a89f-c50c15ec66d5) 
+
+Imagen de un procesador Core 
+
+![image](https://github.com/MateoCarballo/SistemasInformaticos/assets/115709668/8cd32db9-be8d-4396-a2b6-5121f1005675)
 
 
+Fuentes:
+- [bloglenovo.es](https://www.bloglenovo.es/marenostrum-5/)
+- [larazon.es](https://www.bloglenovo.es/marenostrum-5/](https://www.larazon.es/sociedad/asi-es-marenostrum-5-el-nuevo-ordenador-que-llegara-a-barcelona-BC23741752/))
+- [bsc.es](https://www.bloglenovo.es/marenostrum-5/](https://www.bsc.es/es/noticias/noticias-del-bsc/marenostrum-5-volver%C3%A1-situar-espa%C3%B1a-en-la-%C3%A9lite-de-la-supercomputaci%C3%B3n-europea))
+- [bsc.es](https://www.bsc.es/es/marenostrum/marenostrum)
+- [hipertextual.com](https://www.bloglenovo.es/marenostrum-5/](https://hipertextual.com/2022/03/primer-superordenador-marenostrum))
 
 ## 6. Fuentes de Información
 A continuación, se proporcionan enlaces a las fuentes de información utilizadas para recopilar detalles sobre los superordenadores mencionados:
