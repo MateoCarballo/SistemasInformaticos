@@ -50,19 +50,19 @@ La Red Española de Supercomputación (RES) es una Infraestructura Científica y
 Nodos y sistemas de la RES
 En 2021 la RES está formada por 16 superordenadores situados en 13 centros de investigación y universidades españolas:1​
 
-MareNostrum y MinoTauro en el Barcelona Supercomputing Center - Centro Nacional de Supercomputación (BSC-CNS)
-FinisTerrae II en el Centro de Supercomputación de Galicia (CESGA)
-LaPalma en el Instituto de Astrofísica de Canarias (IAC)
-Altamira en el Instituto de Física de Cantabria (IFCA) de la Universidad de Cantabria
-Picasso en la Universidad de Málaga (UMA)
-Tirant en la Universitat de València (UV)
-CaesarAugusta en el Instituto de Biocomputación y Física de Sistemas Complejos (BIFI) de la Universidad de Zaragoza
-Caléndula en la Fundación Centro de Supercomputación de Castilla y León (SCAYLE)
-Pirineus II y Canigó en Consorcio de Servicios Universitarios de Cataluña (CSUC)
-LUSITANIA en CénitS (Fundación COMPUTAEX).
-Cibeles en la Universidad Autónoma de Madrid (UAM)
-Urederra en Navarra de Servicios y Tecnologías (NASERTIC)
-Xula y Turgalium en Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT)
+-MareNostrum y MinoTauro en el Barcelona Supercomputing Center - Centro Nacional de Supercomputación (BSC-CNS)
+-FinisTerrae II en el Centro de Supercomputación de Galicia (CESGA)
+-LaPalma en el Instituto de Astrofísica de Canarias (IAC)
+-Altamira en el Instituto de Física de Cantabria (IFCA) de la Universidad de Cantabria
+-Picasso en la Universidad de Málaga (UMA)
+-Tirant en la Universitat de València (UV)
+-CaesarAugusta en el Instituto de Biocomputación y Física de Sistemas Complejos (BIFI) de la Universidad de Zaragoza
+-Caléndula en la Fundación Centro de Supercomputación de Castilla y León (SCAYLE)
+-Pirineus II y Canigó en Consorcio de Servicios Universitarios de Cataluña (CSUC)
+-LUSITANIA en CénitS (Fundación COMPUTAEX).
+-Cibeles en la Universidad Autónoma de Madrid (UAM)
+-Urederra en Navarra de Servicios y Tecnologías (NASERTIC)
+-Xula y Turgalium en Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT)
 
 [Enlace RES](https://www.res.es/es/nodos-de-la-res)
 
