@@ -90,6 +90,33 @@ En una noticia publicada el dia 12 de Septiembre de 2023 anuncian la puesta en f
 
 ![image](https://github.com/MateoCarballo/SistemasInformaticos/assets/115709668/e24d2ea7-7676-486a-861c-6ba504766880)
 
+En galicia encontramos el superordenador FinisTerrae II, ubicado en el Centro de Supercomputación de Galicia. Sus especificaciones son las siguientes.
+320 nodos y 7.712 nucleos con una memoria de 44.544 GB un alamacenamiento de 750.000 GB y una capacidad e computo de 328.272 GFLOPS y un rendimiento sontenido de 213.000 GFLOPS.
+
+En la pagina del CESGA podemos econtrar un apartado que habla de una tercera actualizacion que multiplicara por doce su capacidad de calculo. Dispondra de una memoria 118 TB y una capacidad de almacenamiento de 25PB. Tambien corpora el primer simulador de computación cuántica de 30 qbits instalado en España.
+Sus nodos contaran con procesadores Intel Ice Lake y las ultimas GPU Nvidia A100.
+
+<!-- TODO:  tabla comparacion marenostrum finisterrae  | Especificaciones             | MareNostrum 5                                    | Finisterrae III                           |
+|------------------------------|--------------------------------------------------|-------------------------------------------|
+| Potencia Pico                | 200 Petaflops (posiblemente hasta 314 PFlops)   | 4 PetaFLOPS                               |
+| Nodos de Computación         | 9.216 nodos                                     | No especificado                           |
+| Núcleos                      | Más de 200.000 núcleos                          | 708 procesadores Intel Ice Lake           |
+| Almacenamiento de Altas Prestaciones | Más de 200 PB de almacenamiento     | 5 PB de almacenamiento en disco         |
+| Memoria Central              | 390 Terabytes                                   | 118 Terabytes                             |
+| Ubicación                    | Barcelona Supercomputing Center                | Centro de Supercomputación de Galicia    |
+| Campo Principal de Uso       | Investigación científica en varios campos      | Investigación científica, computación cuántica |
+-->
+
+| Especificaciones             | MareNostrum 5                                    | FinisTerrae II                            |
+|------------------------------|--------------------------------------------------|-------------------------------------------|
+| Potencia Pico                | 200 Petaflops (posiblemente hasta 314 PFlops)   | 328.272 Gflops                           |
+| Nodos de Computación         | 9.216 nodos                                     | 320 nodos                                 |
+| Núcleos                      | Más de 200.000 núcleos                          | 7.712 cores                               |
+| Almacenamiento de Altas Prestaciones | Más de 200 PB de almacenamiento     | 750.000 GB de almacenamiento Lustre       |
+| Memoria Central              | 390 Terabytes                                   | 44.544 GB de memoria                     |
+| Ubicación                    | Barcelona Supercomputing Center                | Centro de Supercomputación de Galicia    |
+| Campo Principal de Uso       | Investigación científica en varios campos      | No se especifica, pero es un superordenador potente |
+
 
 Para poner en contexto el procesador Intel Core i9-13900K tiene una capacidad de cálculo de 154,6 GFLOPS contra los 150 PetaFLOPS de MareNostrum 5.
 
@@ -104,12 +131,18 @@ Imagen de un procesador Core
 ![image](https://github.com/MateoCarballo/SistemasInformaticos/assets/115709668/8cd32db9-be8d-4396-a2b6-5121f1005675)
 
 
-Fuentes:
+Fuentes informacion Marenostrum 5:
+
 - [bloglenovo.es](https://www.bloglenovo.es/marenostrum-5/)
 - [larazon.es](https://www.bloglenovo.es/marenostrum-5/](https://www.larazon.es/sociedad/asi-es-marenostrum-5-el-nuevo-ordenador-que-llegara-a-barcelona-BC23741752/))
 - [bsc.es](https://www.bloglenovo.es/marenostrum-5/](https://www.bsc.es/es/noticias/noticias-del-bsc/marenostrum-5-volver%C3%A1-situar-espa%C3%B1a-en-la-%C3%A9lite-de-la-supercomputaci%C3%B3n-europea))
 - [bsc.es](https://www.bsc.es/es/marenostrum/marenostrum)
 - [hipertextual.com](https://www.bloglenovo.es/marenostrum-5/](https://hipertextual.com/2022/03/primer-superordenador-marenostrum))
+
+Fuentes informacion FinisTerrae II:
+-[cesga.es](https://www.cesga.es/infraestructuras/computacion/finisterrae-ii/)
+-[cesga.es informacion actualizacion III ](https://www.cesga.es/cesga-actualiza-el-finisterrae-2/)
+-[res.es](https://www.res.es/acceso-a-la-res)
 
 ## 6. Fuentes de Información
 A continuación, se proporcionan enlaces a las fuentes de información utilizadas para recopilar detalles sobre los superordenadores mencionados:
