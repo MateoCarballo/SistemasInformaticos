@@ -28,6 +28,9 @@ Un superordenador está compuesto por miles o incluso millones de componentes el
 - Sistemas de enfriamiento avanzados para disipar el calor generado por la alta potencia de procesamiento.
   Los superordenadores requieren sistemas de enfriamiento sofisticados, como refrigeración líquida o sistemas de refrigeración por inmersión, debido al calor generado por la alta potencia de procesamiento.
 
+- Imagen aclaratoria de la distribucion de un superordenador.
+  ![image](https://github.com/MateoCarballo/SistemasInformaticos/assets/115709668/a360559d-2a25-4990-9e06-c9d09e94963f)
+
 ## 3. Usos
 Los superordenadores se utilizan en una variedad de aplicaciones, como:
 
@@ -36,6 +39,13 @@ Los superordenadores se utilizan en una variedad de aplicaciones, como:
 - Diseño y análisis de productos y materiales.
 - Análisis de datos a gran escala, como genómica y big data.
 - Investigación en energía nuclear y astrofísica.
+
+En junio de 2022 treinta y dos países mantenían en funcionamiento 500 superordenadores:
+- En Asia 228.
+- En América 148.
+- En Europa 118.
+- En Oceanía 5.
+- En África 1.
 
 ## 4. Predecesores y primer superordenador
 Los superordenadores evolucionaron a partir de las computadoras más tempranas. Uno de los primeros superordenadores fue el "Cray-1", desarrollado por Seymour Cray en 1976. Este superordenador fue revolucionario en su época y marcó el comienzo de la era de la computación de alto rendimiento.
@@ -71,6 +81,12 @@ En 2021 la RES está formada por 16 superordenadores situados en 13 centros de i
 
 El superordenador más potente de España actualmente es el MareNostrum 4. Está ubicado en Barcelona y es el superordenador más emblemático del Barcelona Supercomputing Center - Centro Nacional de Supercomputación (BSC-CNS)1. MareNostrum 4 tiene una capacidad de cálculo de 11,1 PetaFLOPS y cuenta con 165.888 núcleos de procesador1. Además, tiene una memoria de 390 TiB1. Si bien MareNostrum 4 es el superordenador más potente de España, también ha ocupado posiciones destacadas en el ranking internacional Top 5001.
 ![image](https://github.com/MateoCarballo/SistemasInformaticos/assets/115709668/58e8ee90-bd76-414e-b4fd-3ee9dd3ed3a6) ![image](https://github.com/MateoCarballo/SistemasInformaticos/assets/115709668/e89d9494-b97f-48a9-960b-c63637a7e5e5)
+
+
+En una noticia publicada el dia 12 de Septiembre de 2023 anuncian la puesta en funcionamiento de la quinta version de este superordenador. Anuncian que multiplicara por diecisiete la potencia de su anterior version. Llegando a velocidades de calculo de 150 PetaFLOPS. [Enlace noticia MareNostrum 5](https://elpais.com/tecnologia/2023-09-12/llega-el-supercomputador-marenostrum-5-la-mayor-inversion-europea-en-una-infraestructura-cientifica-en-espana.html)
+
+![image](https://github.com/MateoCarballo/SistemasInformaticos/assets/115709668/e24d2ea7-7676-486a-861c-6ba504766880)
+
 
 Para poner en contexto el procesador Intel Core i9-13900K tiene una capacidad de cálculo de 154,6 GFLOPS contra los 11,1 PetaFLOPS de MareNostrum 4.
 
