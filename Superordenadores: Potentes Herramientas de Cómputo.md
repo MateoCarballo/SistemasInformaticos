@@ -3,7 +3,7 @@
 2. [Composición y partes principales](#2-composici%C3%B3n-y-partes-principales)
 3. [Usos](#3-usos)
 4. [Predecesores y primer superordenador](#4-predecesores-y-primer-superordenador)
-5. [Ejemplos](#5-ejemplos)
+5. [Res](#5-res)
 6. [Fuentes de Información](#6-fuentes-de-informaci%C3%B3n)
 
 ---
@@ -44,7 +44,7 @@ Los superordenadores evolucionaron a partir de las computadoras más tempranas. 
 ![image](https://github.com/MateoCarballo/SistemasInformaticos/assets/115709668/ee01d1ef-9fd8-43ec-82a8-43bffcd5b71d)
 
 
-## 5. Ejemplos
+## 5. RES
 El superordenador más potente de España actualmente es el MareNostrum 4. Está ubicado en Barcelona y es el superordenador más emblemático del Barcelona Supercomputing Center - Centro Nacional de Supercomputación (BSC-CNS)1. MareNostrum 4 tiene una capacidad de cálculo de 11,1 PetaFLOPS y cuenta con 165.888 núcleos de procesador1. Además, tiene una memoria de 390 TiB1. Si bien MareNostrum 4 es el superordenador más potente de España, también ha ocupado posiciones destacadas en el ranking internacional Top 5001.
 ![image](https://github.com/MateoCarballo/SistemasInformaticos/assets/115709668/58e8ee90-bd76-414e-b4fd-3ee9dd3ed3a6) ![image](https://github.com/MateoCarballo/SistemasInformaticos/assets/115709668/e89d9494-b97f-48a9-960b-c63637a7e5e5)
 
