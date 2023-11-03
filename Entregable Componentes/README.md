@@ -182,8 +182,6 @@ Memoria:
 | Conector IDE          | [Imagen IDE](enlace_imagen_ide)         | [Imagen Cable IDE](enlace_imagen_cable_ide) | Conecta unidades ópticas a la placa. LECTORES, GRABADORES DE CD Y DVD |
 | Conector PCI          | [Imagen PCI](enlace_imagen_pci)         | No existe            | Ranura de expansión para conectar tarjetas. TARJETAS DE SONIDO, TARJETAS DE RED, TARJETAS WIFI |
 | Conector PCI Express x16 | [Imagen PCI-E x16](enlace_imagen_pci_express_x16) | No existe   | Ranura de expansión de alta velocidad para tarjeta de video. TARJETA DE VIDEO (GRÁFICA) |
-| Conector DDR          | [Imagen DDR](enlace_imagen_ddr)         | No existe            | Conecta módulos de memoria RAM con el procesador. MEMORIAS RAM                |
+| Conector DDR          | [Imagen DDR](enlace_imagen_ddr)         | No existe            | Conecta módulos de memoria RAM con el procesador. MEMORIAS RAM           |
 
-Nota: Las imágenes se proporcionan como ejemplos visuales de los conectores. Los cables pueden variar según la configuración específica del hardware.
 
-Es importante recordar que para obtener el máximo rendimiento y compatibilidad, es esencial que los componentes coincidan en términos de conectores y especificaciones.
