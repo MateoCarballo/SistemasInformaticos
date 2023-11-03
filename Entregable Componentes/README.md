@@ -174,14 +174,14 @@ Memoria:
 
 | Conector              | Fotografía del Conector | Fotografía del Cable | Uso                                     |
 |-----------------------|-------------------------|----------------------|-----------------------------------------|
-| Puerto HDMI           | [Imagen HDMI](enlace_imagen_hdmi)      | No existe            | Transmisión de Audio y Video en alta definición. PANTALLAS                  |
-| Conector LAN RJ45     | [Imagen RJ45](enlace_imagen_rj45)        | No existe            | Interconexión de ordenadores en red. PC, impresora, TV, etc.                    |
-| Conector DVI          | [Imagen DVI](enlace_imagen_dvi)         | No existe            | Transmite video digital desde el PC al monitor. MONITOR                   |
-| Conector corriente ATX 4 pin | [Imagen ATX 4-pin](enlace_imagen_atx_4pin) | No existe        | Alimentación de la CPU. CPU                          |
-| Conector SATA         | [Imagen SATA](enlace_imagen_sata)       | [Imagen Cable SATA](enlace_imagen_cable_sata) | Conecta discos duros a la placa. HDD, SSD            |
-| Conector IDE          | [Imagen IDE](enlace_imagen_ide)         | [Imagen Cable IDE](enlace_imagen_cable_ide) | Conecta unidades ópticas a la placa. LECTORES, GRABADORES DE CD Y DVD |
-| Conector PCI          | [Imagen PCI](enlace_imagen_pci)         | No existe            | Ranura de expansión para conectar tarjetas. TARJETAS DE SONIDO, TARJETAS DE RED, TARJETAS WIFI |
-| Conector PCI Express x16 | [Imagen PCI-E x16](enlace_imagen_pci_express_x16) | No existe   | Ranura de expansión de alta velocidad para tarjeta de video. TARJETA DE VIDEO (GRÁFICA) |
-| Conector DDR          | [Imagen DDR](enlace_imagen_ddr)         | No existe            | Conecta módulos de memoria RAM con el procesador. MEMORIAS RAM           |
+| Puerto HDMI| <img src=img/Ejercicio9_11.png alt="Ejercicio9_11" width="500">|<img src=img/Ejercicio9_12.png alt="Ejercicio9_12" width="500">|Transmisión de Audio y Video en alta definición. PANTALLAS|
+| Conector LAN RJ45|<img src=img/Ejercicio9_21.png alt="Ejercicio9_21" width="500">|<img src=img/Ejercicio9_22.png alt="Ejercicio9_22" width="500">            | Interconexión de ordenadores en red. PC, impresora, TV, etc.                    |
+| Conector DVI|<img src=img/Ejercicio9_31.png alt="Ejercicio9_31" width="500">| <img src=img/Ejercicio9_32.png alt="Ejercicio9_32" width="500">            | Transmite video digital desde el PC al monitor. MONITOR                   |
+| Conector corriente ATX 4 pin | <img src=img/Ejercicio9_41.png alt="Ejercicio9_41" width="500"> | <img src=img/Ejercicio9_42.png alt="Ejercicio9_42" width="500">        | Alimentación de la CPU. CPU                          |
+| Conector SATA|<img src=img/Ejercicio9_51.png alt="Ejercicio9_51" width="500">|<img src=img/Ejercicio9_52.png alt="Ejercicio9_52" width="500">| Conecta discos duros a la placa. HDD,SSD            |
+| Conector IDE          |<img src=img/Ejercicio9_61.png alt="Ejercicio9_61" width="500">| <img src=img/Ejercicio9_62.png alt="Ejercicio9_62" width="500">| Conecta unidades ópticas a la placa. LECTORES, GRABADORES DE CD Y DVD |
+| Conector PCI          |<img src=img/Ejercicio9_71.png alt="Ejercicio9_71" width="500">|<img src=img/Ejercicio9_72.png alt="Ejercicio9_72" width="500">| Ranura de expansión para conectar tarjetas. TARJETAS DE SONIDO, TARJETAS DE RED, TARJETAS WIFI |
+| Conector PCI Express x16 |<img src=img/Ejercicio9_81.png alt="Ejercicio9_81" width="500">|<img src=img/Ejercicio9_82.png alt="Ejercicio9_82" width="500">| Ranura de expansión de alta velocidad para tarjeta de video. TARJETA DE VIDEO (GRÁFICA) |
+| Conector DDR          |<img src=img/Ejercicio9_91.png alt="Ejercicio9_91" width="500">|<img src=img/Ejercicio9_92.png alt="Ejercicio9_92" width="500">| Conecta módulos de memoria RAM con el procesador. MEMORIAS RAM           |
 
 
