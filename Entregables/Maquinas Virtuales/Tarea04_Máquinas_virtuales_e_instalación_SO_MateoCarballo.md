@@ -53,43 +53,59 @@ Fuentes:
  - Una vez abrimos el programa pulsamos en "*Nueva*".
 ![Alt text](img/Ejercicio_02/000.jpg)
 ![Alt text](img/Ejercicio_02/001.jpg)
+
 -En la nueva ventana que nos abre, especificaremos el nombre y la ISO que vamos a usar para cargar el sistema operativo en esta máquina virtual. Elegimos la opcion desatendida(Si esta opción está activa el propio software se encarga de instalar por completo el SO si la tenemos desactivada tendremos que realizar nosotros todo el proceso a mano).
 ![Alt text](img/Ejercicio_02/002.jpg)
+
 -En la siguiente ventana deberemos especificar los requisitos que vamos a destinar a este sistema. Como hemos comprobado anteriormente al menos necesitamos 4GB de memoria RAM y don núcleos 
 ![Alt text](img/Ejercicio_02/003.jpg)
+
 Creamos un disco duro virtual para la maquina con, al menos 64 GB, 80 GB.
 ![Alt text](img/Ejercicio_02/004.jpg)
+
 Por ultimo el programa nos enseña un resumen con las especificaciones de nuestra máquina virtual.
 ![Alt text](img/Ejercicio_02/005.jpg)
+
 -Cuando pulsamos el boton terminar nuestra máquina esta creada y aparecera en la parte izquierda de la ventana. Pulsando el botoón  Iniciar  pondremos nuestra máquina en marcha.
 ![Alt text](img/Ejercicio_02/006.jpg)
+
 Al pulsar iniciar aparece una nueva ventana, esta será nuestra máquina virtual y como no tenemos instalado windows todavía comenzaremos a instalarlo como si de una máquina completa ser tratase.Elegimos el idioma y pulsamos siguiente.
 ![Alt text](img/Ejercicio_02/007.jpg)
 ![Alt text](img/Ejercicio_02/008.jpg)
+
 Aquí debemos introducir nuestra clave de producto, en este caso como es una prueba omitimos este proceso. La clave la introduciriamos en el campo señalado con la flecha pero nosotros pulsaremos en el area del circulo sobre *No tengo clave del producto.*
 ![Alt text](img/Ejercicio_02/009.jpg)
+
 En esta ventana elegiremos que version queremos instalar en nuestro equipo. En nuestro caso elegiremos la version que viene marcada por defecto. Que es la Windows 10 Home 
 ![Alt text](img/Ejercicio_02/010.jpg)
+
 Leemos y aceptamos los terminos de licencia y avisos aplicables. Marcamos la casilla conforme los aceptamos y pulsamos siguiente.
 ![Alt text](img/Ejercicio_02/011.jpg)
+
 Elegimos la opcion avanzada para poder realizar las particiones que consideremos oportunas. En nuestro caso el espacio es demasiado limitado para hacer demasiadas puesto que tenemos 80 GB que en 2024 es un espacio mas que escaso. Pero entraremos en esta opcion para ver que nos permite.
 ![Alt text](img/Ejercicio_02/012.jpg)
+
 Dentro de esta unidad creamos un nuevo volumen, dejaremos el valor que nos da por defecto que es el total. Aplicamos.
 ![Alt text](img/Ejercicio_02/013.jpg)
 ![Alt text](img/Ejercicio_02/014.jpg)
+
 El instalador nos avisa de que windows creara unas particiones necesarias para el correcto funcionamiento del sistema. Aceptamos.
 ![Alt text](img/Ejercicio_02/015.jpg)
+
 Como resultado el instalador crea tres particiones como se puede observar en la captura. Pulsamos siguiente.
 ![Alt text](img/Ejercicio_02/016.jpg)
+
 Con esto todas las opciones antes de comenzar a instalar windows y arrancarlo por primera vez se han completado. Ahora solo nos queda esperar a que acabe de instalarse, se reinicie el equipo(MaquinaVirtual) y que comencemos a configurar nuestro sistema operativo.
 ![Alt text](img/Ejercicio_02/017.jpg)
 ![Alt text](img/Ejercicio_02/018.jpg)
+
 La primera vez que arranquemos el sistema nos pedirá que confirmemos el idioma, la distribucion del teclado y le demos un nombre al equipo.
 ![Alt text](img/Ejercicio_02/019.jpg)
 ![Alt text](img/Ejercicio_02/020.jpg)
 ![Alt text](img/Ejercicio_02/021.jpg)
 ![Alt text](img/Ejercicio_02/022.jpg)
 ![Alt text](img/Ejercicio_02/023.jpg)
+
 El proceso de instalacion desde este punto nos pedirá que introduzcamos un correo y creemos un usuario y contraseña. También nos dara a elegir si queremos mandar informes de errores o compartir nuestra ubicacion entre otras cosas. Es necesario registrarse con un correo y si no lo tenemos crearlo para poder arrancar el sistema. Aqui dejare varias capturas con todo este proceso.
 ![Alt text](img/Ejercicio_02/024.jpg)
 ![Alt text](img/Ejercicio_02/025.jpg)
