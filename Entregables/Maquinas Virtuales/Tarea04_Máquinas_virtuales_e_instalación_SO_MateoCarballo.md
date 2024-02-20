@@ -472,8 +472,7 @@ Normalmente preferimos desactivarlo para acelerar el proceso de arranque del sis
 ![Alt text](img/Ejercicio_11/000A.jpg)
 
 2. Escribimos el comando 
-```bcdedit /set {bootmgr} ```
-```displaybootmenu yes ```
+```bcdedit /set {bootmgr} displaybootmenu yes ```
 ``` bcdedit /set {bootmgr} timeout 30 ```
 
 ![Alt text](img/Ejercicio_11/001.jpg)
