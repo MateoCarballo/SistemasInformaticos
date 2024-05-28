@@ -52,7 +52,16 @@ En clase hemos visto diferentes componentes y medios de transmisión, pero hay a
 
 #### 2) Vimos lo que es un punto de acceso. Ahora, investiga:
 - **¿Qué es un repetidor y para qué se utiliza?**
+    Un repetidor Wi-Fi es un dispositivo que tiene como funcion principal ampliar la cobertura de la red inalámbrica. Se utiliza para prolongar la distancia util de la red Wi-Fi.
+
 - **¿En qué se diferencia de un punto de acceso?**
+
+    La diferencia es que el punto de acceso **CREA** la señal de red inalambrica original y el repetidor solo la propaga. Podemos usar un router wifi conectado a otro como punto de acceso, lo que prolonga nuestra red y **CREA** Wi-Fi en el nuevo punto donde conectemos este segundo router.
+
+- **Fuentes**
+- [Repetidor Wi-Fi](https://www.eluniversal.com.mx/techbit/que-es-y-como-funciona-un-repetidor-wifi/#:~:text=Un%20repetidor%20WiFi%2C%20amplificador%20o%20adaptador%20de%20Wi-Fi%2C,de%20forma%20correcta%2C%20explica%20el%20blog%20de%20Movistar.)
+
+- [Punto de acceso](https://www.profesionalreview.com/2018/03/24/diferencias-repetidor-punto-de-acceso/#:~:text=Los%20puntos%20de%20acceso%20Wi-Fi%20crean%20la%20se%C3%B1al,aumentar%20la%20distancia%20de%20alcance%20de%20la%20red.)
 
 #### 3) Esquema de Red Doméstica:
 Utilizando los dispositivos intermedios vistos en clase, elabora un esquema sencillo de la red de tu casa. No es necesario que utilices las mismas imágenes o colores que el ejemplo proporcionado, pero debes incluir toda la información relevante en el esquema.
@@ -65,8 +74,42 @@ Desde el router podemos asignar una direccion IP fija en funcion de la direccion
 
 #### 4) Cable de Par Trenzado:
 - **¿Qué tipos hay y en qué se diferencian?**
+Antes de las clases es importante decir que los cables se entrelazan para evitar el ruido, señales no deseadas, y hacer asi mas seguro y fiable el medio de transporte para datos. Al entrelazar los cables conseguimos que las señales se anulen evitando así interferencias de unos cables sobre los otros.
+
+Atendiendo a sus caracteristicas de fabricacion y materiales usados podemos distinguir:
+
+1. **Cable UTP** (Unshielded Twisted Pair). Contiene pares de cable trenzado sin apantallar(blindar).Las parejas de cables no estan separadas las unas de las otras.
+Suelen usarse para redes domesticas de corta distancia. Su impedancia característica es de 100 ohmios.
+
+![Cable utp](img/Cable-UTP.jpg)
+    
+2. **Cable FTP**(Foiled Twisted Pair). En esta clase los pares trenzados estan separados por un material no conductor (plástico). El apantallamiento de este tipo de cables es global, es decir, aisla al conjunto de los pares trenzados y no a cada uno de ellos. Esta proteccion frente a señales no deseadas suele ser de aluminio. Su impedancia característica es de 120 ohmios.
+
+![Cable utp](img/Cable-FTP.jpg)
+
+3. **Cable STP** (Shielded twisted pair). Como indica su nombre el apantallamieto es de cada par trenzado por separado, se utilizan en redes que requieren altas prestaciones. Se usan cuando los requerimientos son latencias muy bajas, alto ancho de banda y bajísimas tasas de error de bit. Permiten mayores distancias sin el uso de repetidores. Su impedancia tipica es de 150 ohmios. Suelen usarse con conectores RJ49(con aislamiento para evitar ruido).
+
+![Cable utp](img/Cable-STP.jpg)
+
+4. **Cable SSTP**(Screened Shielded Twisted Pair).  Es la union de las propiedades de los dos anteriores. En estos cables tenemos cada par apantallado y una malla que protege a todos los pares del cable. Las protecciones suelen ser de aluminio. Es el cable más caro de la lista pero tambien es el que obtiene las mejores prestaciones. Incluso esta conectado a tierra en los equipos para evitar tensiones residuales.
+
+![Cable utp](img/Cable-SSTP.jpg)
+![Cable utp](img/RJ-49.jfif)
+
+5. **Cable SFTP**(Screened Foiled Twisted Pair). Este cable sería la unión de un cable 
+FTP, pero con una malla metalica por encima del apantallamiento global. Seguira la misma idea que el tipo anterior, por lo que la malla ira contectada a tierrar en los equipos evitando tensiones residuales.
+
+![Cable utp](img/Cable-SFTP.jpg)
+
 - **Existen diferentes categorías de cables de par trenzado. ¿Cuáles son? ¿Cuáles son sus características?**
 
+En la siguiente tabla quedan especificadas las características de cada una de las categorías.
+
+![Cable utp](img/Tabla_Categorias_Cables.png)
+
+
+- **Fuentes**
+-[Cables de par trenzado](https://www.profesionalreview.com/2019/01/26/cables-utp-cables-stp-cables-ftp/#:~:text=Tipos%20de%20cable%20de%20par%20trenzado%3A%20cables%20UTP%2C,FTP%205%20Categor%C3%ADas%20de%20cables%20de%20pares%20trenzados)
 
 ### Formato de Entrega
 El documento debe entregarse en formato .PDF.
